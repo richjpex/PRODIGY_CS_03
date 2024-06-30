@@ -23,3 +23,8 @@ The `rockyou.txt` is a wordlist of 14,341,564 unique plaintext passwords that we
 
 How to run the program:
 
+Please install the rockyou.txt from here:
+
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
+`python password_checker --password SuperSecurePassword123!`
